@@ -1,6 +1,6 @@
 # RSA
 
-Minha implementação do segundo trabalho da disciplina Matématica Discreta (INF230) oferecida em 2021/1 pela UFV. 
+Minha implementação do segundo trabalho da disciplina Matemática Discreta (INF230) oferecida em 2021/1 pela UFV. 
 
 O objetivo do trabalho era aplicar os conhecimentos de Teoria dos Números através da implementação de funções para suporte ao sistema de criptografia de chave pública RSA. Foi implementada as funcionalidades de geração de chaves públicas e privadas, codificação, decodificação, assinatura e verificação de assinatura. 
 
